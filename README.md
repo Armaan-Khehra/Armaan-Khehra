@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning Python and Tensor Flow.
 - 💞️ I’m looking to collaborate on nothing for now...
-- 📫 How to reach me armaan.txt@gmail.com
+- 📫 How to reach me armaankhehra@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know nothing about CS...
 
