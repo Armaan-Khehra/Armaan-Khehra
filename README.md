@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armaan-Khehra
+- 👋 Hi, I’m @Ari
 - 👀 I’m pursuing my career in machine learning.
 - 🌱 I’m currently learning Tensor Flow.
 - 💞️ I’m looking to collaborate on software, mobile, discord bot development
